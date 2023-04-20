@@ -1,4 +1,4 @@
-# discord-generator
+# discord-token-generator
 The generator generates unlocked Discord tokens, It uses a variety of factors to achieve this such as anti TLS fingerprinting, solving cloudflare challenges to bypass hCaptcha's anti bot detection, and more!
 
 !!!!! CONTACT ME VIA DISCORD FOR THE SRC!!!
